@@ -10,6 +10,11 @@ public class ForPractice {
         //2.This is for loop; from 40 to 3, increment by 6
         //2.ループ回数を表示する
         for(int i = 40; i >= 3; i = i - 6) {System.out.println("countdown: " + i);}
+    
+        //3.This is for loop; from 100 to 10, increment by 6
+        //3.ループ回数を表示する
+        for(int i = 100; i >= 10; i = i - 6) {System.out.println("countdown: " + i);}
+    
     }
     
 }
